@@ -1,0 +1,21 @@
+{
+  "name": "hw-storage",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoha2012pro/hw-storage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antoha2012pro/hw-storage/issues"
+  },
+  "homepage": "https://github.com/Antoha2012pro/hw-storage#readme"
+}
